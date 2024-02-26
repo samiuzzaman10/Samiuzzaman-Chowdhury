@@ -6,7 +6,7 @@ I’m a web developer with experience in HTML, CSS, and JavaScript. I’m passio
 Skills: Python /Javascript / HTML / CSS/ 
 
 - 🌱 I’m currently learning Javascript  
-- 📫 How to reach me: samiuzzamanrahat95@gmail.com 
+- 📫 How to reach me: chowdhurysamiuzzaman@gmail.com 
 - ⚡ Fun fact: I'm Funny 
 
 
