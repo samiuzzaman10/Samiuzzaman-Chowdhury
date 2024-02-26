@@ -1,9 +1,9 @@
 ### Hi there 👋, My name is Samiuzzaman Chowdhury 
 #### Web Developer 
 
-I’m a web developer with experience in HTML, CSS, and JavaScript. I’m passionate about creating beautiful and functional websites that are easy to use. I’m also skilled in database development with SQL and have knowledge in software patterns and practices. I have strong attention to detail and experience with source control systems like Git.
+I’m a web developer with experience in HTML, CSS, and JavaScript. I’m passionate about creating beautiful and functional websites that are easy to use. I’m also skilled in database development with SQL and have knowledge of software patterns and practices. I have strong attention to detail and experience with source control systems like Git.
 
-Skills: JS / HTML / CSS/ 
+Skills: Python /Javascript / HTML / CSS/ 
 
 - 🌱 I’m currently learning Javascript  
 - 📫 How to reach me: samiuzzamanrahat95@gmail.com 
