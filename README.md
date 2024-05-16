@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Front-End Web Developers | Crafting Dynamic User Experiences with HTML, CSS, and JavaScript | Proficient in Modern Frameworks like Tailwind CSS and React JS | Committed to Continuous Learning and Growth | Let's Build Beautiful Websites Together! Md Samiuzzaman Chowdhury</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Md Samiuzzaman Chowdhury</h1>
+<h3 align="center">Passionate Front-End Web Developer  | Crafting Dynamic User Experiences with HTML, CSS, and JavaScript | Proficient in Modern Frameworks like Tailwind CSS and React JS | Committed to Continuous Learning and Growth | Let's Build Beautiful Websites Together! Md Samiuzzaman Chowdhury</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiuzzaman10&label=Profile%20views&color=0e75b6&style=flat" alt="samiuzzaman10" /> </p>
 
